@@ -12,7 +12,7 @@ I specialize in bridging the gap between deep learning research and scalable ent
 * **Prompt Design in Vertex AI (Skill Badge)** — *Google Cloud* [🔗 Link](https://www.credly.com/badges/e21a9afe-a4e0-4213-8302-6b203ce09e8c)
 * **Coding & Programming Certificate** — *Samsung Innovation Campus* [🔗 Link](https://drive.google.com/file/d/1RQ275USa6ZgI0Yyw6Gr-vsObzVhl-ewA/view?usp=drive_link)
 
-* **EXPERIENCE** 
+## EXPERIENCE
 * **Software Developer Apprentice** — *CBA Services* [🔗Link](https://drive.google.com/file/d/1YBDBj1niJRZzSskLtB7tr1Zo5gR-ZE17/view?usp=drive_link)
 
 
